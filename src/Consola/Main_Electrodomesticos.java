@@ -17,7 +17,7 @@ public class Main_Electrodomesticos {
 		System.out.println(e1.toString());
 		System.out.println("-----------------");
 		
-		System.out.println("Ingrese el nombre del electrodomestico: ");
+		System.out.println("Ingrese el nombre del electrodomesticos: ");
 		String nombre = entrada.next();
 		
 		System.out.println("Ingrese la marca del electrodomestico: ");
